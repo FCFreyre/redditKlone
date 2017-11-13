@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/FCFreyre/redditKlone#readme",
   "dependencies": {
-    "body-parser": "^1.17.1",
-    "express": "^4.15.2",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
     "hbs": "^4.0.1",
-    "pg": "^6.1.5"
+    "pg": "^6.4.2"
   }
 }
